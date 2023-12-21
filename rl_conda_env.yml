@@ -1,0 +1,8 @@
+name: shower_rl_env
+channels:
+  - defaults
+dependencies:
+  - gym-box2d
+  - pip
+  - scikit-learn
+  - ipywidgets
